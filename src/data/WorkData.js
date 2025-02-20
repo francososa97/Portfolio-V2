@@ -105,5 +105,12 @@ export const Work = [
       "description": "Contributed to the HR IT department at Santander, enhancing internal software solutions for employee management.",
       "tags": [".Net", "Angular", "SQL Server", "Azure"],
       "demo": "https://www.santander.com/es/home",
+    },
+    {
+      "id": 16,
+      "name": "dynamic devs",
+      "description": "Contributed to the dynamicdevs, enhancing internal software solutions for employee management.",
+      "tags": [".Net", "Azure", "SQL Server", "Azure", "Postman"],
+      "demo": "https://www.dynamicdevs.io/",
     }
   ]
